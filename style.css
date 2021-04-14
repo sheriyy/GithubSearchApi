@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  /* padding: 0; */
+  box-sizing: border-box;
+}
+
+#header {
+  background-color: black;
+  height: 50px;
+  margin-bottom: 10px;
+}
+#header h2 {
+  padding-top: 10px;
+  color: white;
+}
+.flex {
+  display: flex;
+}
+.search {
+  width: 95%;
+  margin-right: 2px;
+}
+.button {
+  background-color: black;
+  color: white;
+  border-radius: 2px;
+}
